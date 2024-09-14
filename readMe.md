@@ -2,7 +2,7 @@
 
 ## Description
 
-This API provides endpoints for managing users, profiles, and products. It includes operations for creating, reading, updating, and deleting (CRUD) entities, as well as user authentication (registration and login).
+This API provides endpoints for managing users, profiles, and products. It includes operations for creating, reading, updating, and deleting (CRUD) entities, as well as user authentication (registration and login). The API is built using Node.js, Express, and Sequelize ORM with a MySQL database.git 
 
 ## Features
 
